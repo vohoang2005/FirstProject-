@@ -1,2 +1,3 @@
 # FirstProject-
-FirstProject
+x = ("Hello")
+print(x)
