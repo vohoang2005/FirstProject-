@@ -1,7 +1,0 @@
-field1,field2,field3,field4,field5,field6,field7,field8,field9,field10,field11,field12,field13,field14,field15,field16
-id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365
-2059078,★Central Canal House - Whole House★,9957140,Max,,Centrum-West,52.36986650503903,4.896065320366604,Entire home/apt,999,2,13,2017-06-05,0.36,6,23
-16344505,AmsterdamStag Stay,104389329,Jo,,Centrum-West,52.374067250314546,4.900890309381741,Entire home/apt,999,1,6,2017-07-16,0.60,2,360
-11510642,Charming Studio in City Centre,5786813,Paula,,Centrum-West,52.371541610230636,4.892015317340794,Entire home/apt,999,1,0,,,1,0
-20211122,Not available,67777107,Eugenio,,Westerpark,52.390994851157856,4.87773833169206,Entire home/apt,999,20,0,,,1,358
-2024070,Artistic and spacious apartment,10400828,Cindy,,Bijlmer-Oost,52.32869920991156,4.9761592840225655,Entire home/apt,99,1,5,2017-11-19,0.10,1,348
